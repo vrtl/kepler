@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/cspec/Desktop/Project/kepler/.github/workflows/rust-ci-yml"
+    }
+}
